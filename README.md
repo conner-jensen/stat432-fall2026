@@ -1,2 +1,1 @@
-# stat432-fall2026-student
-skill file for 432 students to format course deliverables 
+Portable STAT 432 Fall 2026 skill for setting up and checking student submission repositories, version v1.0.0.
